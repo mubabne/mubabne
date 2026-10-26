@@ -43,3 +43,9 @@ I'm interested in reliable applications, useful AI tools, and application securi
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mubabne&theme=transparent" alt="GitHub profile activity summary" width="100%" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mubabne/mubabne/output/snake-gold.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mubabne/mubabne/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/mubabne/mubabne/output/github-snake.svg" width="100%" />
+</picture>
