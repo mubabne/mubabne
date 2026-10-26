@@ -29,16 +29,14 @@ I'm interested in reliable applications, useful AI tools, and application securi
 - Application security
 - Flutter
 
-<!-- Selected work: add real public projects here, then uncomment.
-Candidates from your public repos: Bank, programming-quality-lab1-playwright,
-programming-quality-lab3-slo-k6, programming-quality-lab06-pairwise, MyPortfolio.
-
 ## Selected work
 
-| Project | Problem solved | My contribution | Stack |
-| --- | --- | --- | --- |
-| [Bank](https://github.com/mubabne/Bank) | One concrete sentence | What I implemented | ... |
--->
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Mailance](https://github.com/mubabne/Bank) | Personal-finance dashboard that reads bank-notification emails through the Gmail API with read-only access | Flutter, Dart, Supabase |
+| [Playwright lab](https://github.com/mubabne/programming-quality-lab1-playwright) | End-to-end login, error-handling, and cart tests across three browsers, with trace evidence | Playwright, TypeScript |
+| [SLO & k6 lab](https://github.com/mubabne/programming-quality-lab3-slo-k6) | Quality scenarios turned into SLOs and enforced as k6 load-test thresholds against a local API | k6, JavaScript, Express |
+| [Pairwise testing lab](https://github.com/mubabne/programming-quality-lab06-pairwise) | Category-partition and pairwise test design for a money-transfer function | PICT |
 
 ## GitHub activity
 
