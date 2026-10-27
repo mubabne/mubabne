@@ -28,6 +28,9 @@ I'm interested in reliable applications, useful AI tools, and application securi
 - AI agents and MCP integration
 - Application security
 - Flutter
+- Next.js
+- Node.js
+- Operating system
 
 ## Selected work
 
